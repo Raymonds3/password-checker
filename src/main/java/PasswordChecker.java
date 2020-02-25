@@ -73,7 +73,7 @@ public class PasswordChecker {
 
     public static void main(String[] args) {
 
-        passwordIsValid("Raymondser3@");
-        passwordIsOk("Raymondser3@");
+        passwordIsValid("raymondsere");
+        passwordIsOk("raymondsere");
     }
 }
